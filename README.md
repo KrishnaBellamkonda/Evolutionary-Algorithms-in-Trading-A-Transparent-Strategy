@@ -1,3 +1,4 @@
+![pdf](./Evolutionary_Algorithms_in_Time_Series_Prediction.pdf)
 ![page1](./EvolutionaryAlgorithmPictures/Evolutionary_Algorithms_in_Time_Series_Prediction_page-0001.jpg)
 ![page2](./EvolutionaryAlgorithmPictures/Evolutionary_Algorithms_in_Time_Series_Prediction_page-0002.jpg)
 ![page3](./EvolutionaryAlgorithmPictures/Evolutionary_Algorithms_in_Time_Series_Prediction_page-0003.jpg)
