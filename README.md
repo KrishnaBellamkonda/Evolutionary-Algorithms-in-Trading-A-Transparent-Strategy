@@ -1,1 +1,8 @@
 ![page1](./EvolutionaryAlgorithmPictures/Evolutionary_Algorithms_in_Time_Series_Prediction_page-0001.jpg)
+![page2](./EvolutionaryAlgorithmPictures/Evolutionary_Algorithms_in_Time_Series_Prediction_page-0002.jpg)
+![page3](./EvolutionaryAlgorithmPictures/Evolutionary_Algorithms_in_Time_Series_Prediction_page-0003.jpg)
+![page4](./EvolutionaryAlgorithmPictures/Evolutionary_Algorithms_in_Time_Series_Prediction_page-0004.jpg)
+![page5](./EvolutionaryAlgorithmPictures/Evolutionary_Algorithms_in_Time_Series_Prediction_page-0005.jpg)
+![page6](./EvolutionaryAlgorithmPictures/Evolutionary_Algorithms_in_Time_Series_Prediction_page-0006.jpg)
+![page7](./EvolutionaryAlgorithmPictures/Evolutionary_Algorithms_in_Time_Series_Prediction_page-0007.jpg)
+![page8](./EvolutionaryAlgorithmPictures/Evolutionary_Algorithms_in_Time_Series_Prediction_page-0008.jpg)
